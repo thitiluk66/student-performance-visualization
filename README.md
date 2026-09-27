@@ -73,10 +73,10 @@ group5/
 ## Live Demo
 
 D3.js:
-[ใส่ลิงก์ GitHub Pages หลังจาก Deploy]
+[(https://github.com/thitiluk66/student-performance-visualization)]
 
 Chart.js:
-[ใส่ลิงก์ GitHub Pages หลังจาก Deploy]
+[[ใส่ลิงก์ GitHub Pages หลังจาก Deploy](https://github.com/thitiluk66/student-performance-visualization)]
 
 ## Members
 
