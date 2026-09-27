@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#f5f7fa;
+    padding:20px;
+}
+
+.container{
+    width:100%;
+    max-width:1900px;
+    margin:auto;
+}
+
+h1{
+    text-align:center;
+    margin-bottom:25px;
+    color:#1f2937;
+    font-size:36px;
+}
+
+.dashboard{
+    display:grid;
+    grid-template-columns:1fr;
+    gap:25px;
+}
+
+.card{
+    background:white;
+    border-radius:15px;
+    padding:25px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+
+    height:900px;
+}
+
+.card h2{
+    margin-bottom:20px;
+    font-size:28px;
+}
+
+.card canvas{
+    width:100% !important;
+    height:800px !important;
+}

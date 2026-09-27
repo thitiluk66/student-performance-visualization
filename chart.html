@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Performance Factors - Chart.js</title>
+
+    <link rel="stylesheet" href="chart.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+    <h1>Student Performance Factors - Chart.js</h1>
+
+    <div class="dashboard">
+
+        <div class="card">
+            <h2>1. Correlation Analysis</h2>
+            <canvas id="scatterChart"></canvas>
+        </div>
+
+        <div class="card">
+            <h2>2. Attendance Analysis</h2>
+            <canvas id="lineChart"></canvas>
+        </div>
+
+        <div class="card">
+            <h2>3. Family Income Analysis</h2>
+            <canvas id="incomeChart"></canvas>
+        </div>
+
+        <div class="card">
+            <h2>4. Motivation Analysis</h2>
+            <canvas id="motivationChart"></canvas>
+        </div>
+
+    </div>
+</div>
+
+<script src="chart.js"></script>
+
+</body>
+</html>
