@@ -76,7 +76,7 @@ D3.js [(https://thitiluk66.github.io/student-performance-visualization/d3.html)]
 
 
 Chart.js:
-[[(https://thitiluk66.github.io/student-performance-visualization/chart.html)]
+[(https://thitiluk66.github.io/student-performance-visualization/chart.html)]
 
 ## Members
 
