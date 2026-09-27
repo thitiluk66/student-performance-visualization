@@ -72,11 +72,11 @@ group5/
 
 ## Live Demo
 
-D3.js [(https://thitiluk66.github.io/student-performance-visualization/web/d3/)]
+D3.js [(https://thitiluk66.github.io/student-performance-visualization/d3.html)]
 
 
 Chart.js:
-[[(http://127.0.0.1:5500/chart.html)](https://thitiluk66.github.io/student-performance-visualization/web/chartjs/)]
+[[(https://thitiluk66.github.io/student-performance-visualization/chart.html)]
 
 ## Members
 
