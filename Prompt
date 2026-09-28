@@ -1,0 +1,49 @@
+# AI Prompt Log
+
+Student Performance Analysis: Factors Affecting Academic Achievement
+
+AI Tool: ChatGPT
+
+วัตถุประสงค์ในการใช้ AI:
+ใช้เป็นเครื่องมือช่วยให้คำแนะนำในการพัฒนาโครงงาน อธิบายแนวทาง
+ตรวจสอบโค้ด และช่วยเรียบเรียงเนื้อหา โดยสมาชิกในกลุ่มเป็นผู้ตรวจสอบ
+ปรับแก้ และนำผลลัพธ์ไปใช้งานให้เหมาะสมกับโครงงาน
+
+## Prompt 1: Data Cleaning
+ช่วยแนะนำขั้นตอนการทำ Data Cleaning สำหรับชุดข้อมูล
+Student Performance Factors โดยตรวจสอบ Missing Values,
+Duplicate Data, Data Types และ Outliers พร้อมอธิบายเหตุผล
+ในการเลือกวิธีจัดการข้อมูล
+
+## Prompt 2: Data Analysis
+ช่วยแนะนำแนวทางวิเคราะห์ปัจจัยที่เกี่ยวข้องกับ Exam_Score
+จากชุดข้อมูล Student Performance Factors โดยพิจารณาตัวแปร
+Hours_Studied, Attendance, Family_Income และ Motivation_Level
+และอธิบายวิธีนำเสนอผลการวิเคราะห์ที่เหมาะสม
+
+## Prompt 3: D3.js Visualization
+ช่วยแนะนำการสร้าง Interactive Data Visualization ด้วย D3.js
+จากไฟล์ Student Performance Factors โดยนำเสนอความสัมพันธ์
+ระหว่าง Hours_Studied กับ Exam_Score, Attendance กับ Exam_Score,
+Family_Income กับ Exam_Score และ Motivation_Level กับ Exam_Score
+พร้อม Tooltip และ Responsive Design
+
+## Prompt 4: Chart.js Visualization
+ช่วยแนะนำการสร้าง Data Visualization ด้วย Chart.js
+โดยใช้ข้อมูลเดียวกับเวอร์ชัน D3.js เพื่อใช้เปรียบเทียบการพัฒนา
+Visualization ระหว่าง D3.js และ Chart.js
+
+## Prompt 5: การอธิบายผล
+ช่วยอธิบายผลจากกราฟ Student Performance Factors
+โดยหลีกเลี่ยงการสรุปว่าเป็นความสัมพันธ์เชิงเหตุและผล
+และเขียนให้อยู่ในรูปแบบที่เหมาะสำหรับรายงานโครงงาน
+
+## Prompt 6: เปรียบเทียบ Framework
+ช่วยเปรียบเทียบข้อดี ข้อจำกัด และความแตกต่างในการพัฒนา
+Data Visualization ระหว่าง D3.js และ Chart.js
+จากประสบการณ์การพัฒนา Dashboard ในโครงงานนี้
+
+## Prompt 7: GitHub และ Deployment
+ช่วยอธิบายขั้นตอนการจัดโครงสร้าง Repository บน GitHub
+การจัดทำ README.md และ Contribution Log
+รวมถึงการ Deploy เว็บไซต์ D3.js และ Chart.js ด้วย GitHub Pages
